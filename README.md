@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=velo0%40linux-mint%3A~%24+whoami;Full-Stack+Developer+%7C+Hungary+%F0%9F%87%AD%F0%9F%87%BA;Building+SaaS%2C+Games+%26+AI+Tools;velo0%40linux-mint%3A~%24+_" alt="Terminal typing animation" />
 
 <!-- Linux terminal GIF -->
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400" alt="Linux terminal gif" />
+
 
 </div>
 
