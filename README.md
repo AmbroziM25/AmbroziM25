@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Terminal-style animated typing intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=velo0%40linux-mint%3A~%24+whoami;Full-Stack+Developer+%7C+Hungary+%F0%9F%87%AD%F0%9F%87%BA;Building+SaaS%2C+Games+%26+AI+Tools;velo0%40linux-mint%3A~%24+_" alt="Terminal typing animation" />
-
-<!-- Linux terminal GIF -->
+<img src="./assets/terminal.gif" width="600" alt="Terminal intro" />
 
 
 </div>
@@ -22,7 +20,7 @@ velo0@linux-mint:~$ whoami
 - 🌙 Building **Lunar CSS** — a dark, night-sky themed utility-first CSS framework
 - 🎮 Developing **Roblox games** with Luau (physics, matchmaking, game systems)
 - 🤖 Integrating **AI APIs** (Claude, OpenAI) into real products
-- 💡 Exploring **GEO** (Generative Engine Optimization) with **Promin AI**
+- 💡 Exploring **GEO** (Generative Engine Optimization)
 
 ---
 
